@@ -7,7 +7,6 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Vishesha01&style=flat-square&color=blue)](https://github.com/Vishesha01)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Vishesha01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vishesha-s-187083330/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:vishesha771@gmail.com)
@@ -20,7 +19,7 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const vishesha = {
+
     name              : "Vishesha S",
     role              : "Software Engineer",
     location          : "Tirunelveli, Tamil Nadu, India",
@@ -30,7 +29,7 @@ const vishesha = {
     currentlyLearning : ["Generative AI", "Cloud Technologies", "Cyber Security"],
     openTo            : ["Internships", "Open Source", "Collaborations"],
     interests         : ["Full-Stack Development", "AI", "Software Engineering"]
-};
+
 ```
 
 ---
